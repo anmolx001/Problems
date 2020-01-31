@@ -1,5 +1,5 @@
 # Problems
-codes
+<codes>
 
 # 1.Organizing Containers of Balls
 David has n containers and n different types of balls, both of which are numbered from 0 to n-1. The distribution of ball types per container are described by an n x n matrix of integers, M, where each Mc,t is the number of balls of type t in container c.For example, consider the following diagram for M= [[1,4],[2,3]]:
